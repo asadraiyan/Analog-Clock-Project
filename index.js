@@ -11,11 +11,3 @@ setInterval(() => {
     minute.style.transform = `rotate(${mrotation}deg)`;
     second.style.transform = `rotate(${srotation}deg)`;
 }, 1000);
-
-// console.log(new Date())
-// console.log(new Date().getHours())
-// console.log("asad =", d)
-// 30 * 20 + 27 / 2;
-// 30 * 20 + 13.5
-// 600 + 13.5
-// 613.5
