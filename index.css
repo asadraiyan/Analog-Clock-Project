@@ -20,7 +20,6 @@
 #minute,
 #second {
   position: absolute;
-  background-color: black;
   border-radius: 10px;
   transform-origin: bottom;
 }
@@ -30,6 +29,7 @@
   top: 25%;
   left: 48.82%;
   opacity: 0.8;
+  background-color: black;
 }
 #minute {
   width: 1.6%;
@@ -37,6 +37,7 @@
   top: 18%;
   left: 49%;
   opacity: 0.8;
+  background-color: black;
 }
 #second {
   width: 1%;
@@ -44,6 +45,7 @@
   top: 10%;
   left: 49.3%;
   opacity: 0.8;
+  background-color: red;
 }
 
 @media only screen and (max-width: 600px) {
